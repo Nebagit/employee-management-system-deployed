@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Complete-Employee-management/static/css/main.24135e70.css",
+    "main.js": "/Complete-Employee-management/static/js/main.c75f54ba.js",
+    "index.html": "/Complete-Employee-management/index.html",
+    "main.24135e70.css.map": "/Complete-Employee-management/static/css/main.24135e70.css.map",
+    "main.c75f54ba.js.map": "/Complete-Employee-management/static/js/main.c75f54ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24135e70.css",
+    "static/js/main.c75f54ba.js"
+  ]
+}
