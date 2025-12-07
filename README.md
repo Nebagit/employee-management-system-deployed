@@ -1,3 +1,34 @@
+# Employee Dashboard Web App
+
+A web-based dashboard designed to **visualize employee information** and key statistics for organizational management.
+
+---
+
+## 🌟 Key Features
+
+- Dashboard displaying employee statistics
+- Graphs and charts for quick insights
+- Search and filter employee records
+- Responsive design for desktop and mobile
+- Easy integration with backend systems
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Nebagit/Employee-dashbored.git
+cd Employee-dashbored
+npm install
+npm start
+Open http://localhost:3000 to use the dashboard.
+
+🎯 Purpose
+To provide a functional and visually appealing employee management dashboard, improving organization and reporting efficiency.
+
+⚠️ License
+© Nebiyu Tefera — All rights reserved.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
